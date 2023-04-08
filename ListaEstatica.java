@@ -5,10 +5,6 @@
  */
 package ex_01;
 
-/**
- *
- * @author lecarvalho
- */
 public class ListaEstatica {
 
     private int[] info;
